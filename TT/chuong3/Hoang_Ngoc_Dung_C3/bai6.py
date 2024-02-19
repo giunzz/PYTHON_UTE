@@ -1,0 +1,5 @@
+print("EX6: ")
+x = float(input("Enter the number X: "))
+y = float(input("Enter the number Y: "))
+t = abs(x - y) / (x + y)
+print(t)

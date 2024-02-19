@@ -1,0 +1,5 @@
+print("EX 10:")
+p = int(input("Enter a power: "))
+p = pow(2,p)
+print("Last digit of 2^p: ", p % 10)
+print("Last two digits of 2^p: ", p % 100)

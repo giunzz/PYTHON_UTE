@@ -1,0 +1,8 @@
+tem = float(input("Enter  a temperature in Celsius: "))
+if (tem < -273.15): print(" the temperature is invalid")
+elif (tem == -273.15): print(" the temperature is absolute 0")
+elif(tem < 0): print("the temperature is below freezing")
+elif (tem == 0): print("he temperature is at the freezing point")
+elif (tem < 100): print("the temperature is in the normal range")
+elif (tem == 100): print("the temperature is at the boiling point")
+else : print("the temperature is above the boiling point")
