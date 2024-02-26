@@ -1,4 +1,3 @@
-@ -35,3 +35,111 @@ print("Covert angle to 0 and 360: ", n)
 print("EX8: ")
 minute = int(input("Enter number of seconds: "))
 print(minute, " seconds is ", minute // 60, " minutes and ", minute % 60, " seconds")
