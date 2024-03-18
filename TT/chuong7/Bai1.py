@@ -1,3 +1,4 @@
+from bai8 import *
 n = int(input("Enter the size of list: "))
 L = []
 for i in range(n):

@@ -5,6 +5,10 @@ def find(str, k):
             count += 1
     return count
 
+
+
+
+
 def main():
     str = input("Enter a string: ")
     k = input("Enter a character: ")
