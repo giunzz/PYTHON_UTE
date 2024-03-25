@@ -13,3 +13,7 @@ else:
         t1 = t2
         t2 = c
 print("\r")
+a = 5
+b = 8
+a,b = b,a
+print(a,b)

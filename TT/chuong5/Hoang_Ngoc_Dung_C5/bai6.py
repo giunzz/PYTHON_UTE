@@ -2,6 +2,9 @@ print("Ex6 ")
 n = 100
 prime = [False for i in range(n + 1)]
 
+def sumab(a,b):
+    return a + b
+
 def ss(n):
     prime[0] = prime[1] = True
     for i in range (2,n + 1):
