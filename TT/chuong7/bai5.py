@@ -6,3 +6,6 @@ for i in range(len(l)):
 
 print("List after removing first characters:")
 print(l2)
+
+John#Peter#Vicky
+List after removing first characters:

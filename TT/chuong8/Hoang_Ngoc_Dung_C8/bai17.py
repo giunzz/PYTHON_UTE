@@ -8,11 +8,9 @@ sum = 0
 count = 0
 
 for row in m:
-   
     for num in row:
         
         sum += num
-      
         count += 1
 
 

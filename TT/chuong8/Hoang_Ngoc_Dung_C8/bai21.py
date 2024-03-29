@@ -7,4 +7,3 @@ for i in range(1,8):
     for j in range(1,8):
         l.append(len * u[i-1] / u[j-1])
 print(l[choices])
-

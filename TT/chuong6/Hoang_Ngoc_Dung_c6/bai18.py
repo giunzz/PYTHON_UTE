@@ -16,3 +16,6 @@ for i in range(len(s)):
             id = i
             fi = 1
 print("Ocurrences a letter: ", cnt, "First id: ", id + 1) 
+
+x = ord('A') #65
+y = chr(65) #A
