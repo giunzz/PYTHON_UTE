@@ -1,0 +1,22 @@
+Pennsylvania,Philadelphia:91
+Arizona,Tucson:107
+California,Los Angeles:78
+California,Los Angeles:81
+Pennsylvania,Pittsburgh:89
+Oregon,Salem:90
+California,San Francisco:64
+California,San Francisco:68
+Arizona,Flagstaff:81
+California,Los Angeles:82
+Arizona,Flagstaff:84
+Oregon,Salem:83
+Arizona,Tucson:99
+California,Yreka:100
+Arizona,Phoenix:109
+Oregon,Portland:82
+Arizona,Tucson:103
+Oregon,Portland:79
+Arizona,Phoenix:107
+Oregon,Salem:85
+Pennsylvania,Philadelphia:86
+Arizona,Flagstaff:81
