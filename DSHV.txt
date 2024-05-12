@@ -1,1 +1,1 @@
-Ma sinh vien: 123, Ten sinh vien: dung, Nam sinh: 2005, Danhsachmonhoc : [<__main__.subject object at 0x000002CE24283550>]
+1234,Hoang Dung,2004,[{'id_course': '123', 'name': "dcung'", 'hours': 23}]

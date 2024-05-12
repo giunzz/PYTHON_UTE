@@ -1,0 +1,3 @@
+ID: 123, Name: dung, Birth Year: 2005
+Courses:
+Course ID: 123, Course Name: avcdbv, Course Hours: 23
