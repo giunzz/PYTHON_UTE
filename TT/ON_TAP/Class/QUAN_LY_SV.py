@@ -51,4 +51,3 @@ print("List of students")
 Center.display()
 print("List of students with at least 2 courses")
 Center.display_students_with_two_courses()
-       

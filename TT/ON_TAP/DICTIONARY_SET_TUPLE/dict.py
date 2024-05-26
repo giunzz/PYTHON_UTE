@@ -10,4 +10,4 @@ name = input("Enter the name of friend to check: ")
 if name in a:
     print("The phone number of ", name, " is ", a[name])
 else : 
-    print("The name is not in the dictionary")
+    print("The name is not in the dictionary")a
