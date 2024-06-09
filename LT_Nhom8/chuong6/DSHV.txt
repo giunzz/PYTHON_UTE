@@ -1,0 +1,1 @@
+Ma sinh vien: 234, Ten sinh vien: jih, Nam sinh: liuljj, Danhsachmonhoc : [<__main__.subject object at 0x00000284BD0235D0>, <__main__.subject object at 0x00000284BD023710>, <__main__.subject object at 0x00000284BD023810>, <__main__.subject object at 0x00000284BD023910>, <__main__.subject object at 0x00000284BD023950>]
